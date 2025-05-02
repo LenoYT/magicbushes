@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "magicbushes:block/ethereal_berries/stage0"
+    },
+    "age=1": {
+      "model": "magicbushes:block/ethereal_berries/stage1"
+    },
+    "age=2": {
+      "model": "magicbushes:block/ethereal_berries/stage2"
+    },
+    "age=3": {
+      "model": "magicbushes:block/ethereal_berries/stage3"
+    }
+  }
+}
